@@ -63,7 +63,7 @@
 <a name="run-on-google-colab"></a>
 
 ## **🕹️ Run on Google Colab**
-#### **1.Open code on Google Colab: [Open NoteBook](https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/ipynb/Colab.ipynb)**  
+#### **1.Open code on Google Colab: [Open NoteBook](https://colab.research.google.com/github/kazimmt/WARP-UNLIMITED-ADVANCED/blob/main/ipynb/Colab.ipynb)**  
 #### **2.Now enter your WARP Client ID and run The WARP (1.1.1.1) code as shown in the image *(click on the Play button on top-left corner)***
 ![3](./Img/3.jpg)
 
@@ -84,7 +84,7 @@
 
 ## **⚡Host on Heroku**
 #### **1.First click the following deploy button.**
-[![Deploy on Heroku](./Img/Heroku%20Deployment%20Button.png)](https://heroku.com/deploy?template=https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/tree/sys-env)
+[![Deploy on Heroku](./Img/Heroku%20Deployment%20Button.png)](https://heroku.com/deploy?template=https://github.com/kazimmt/WARP-UNLIMITED-ADVANCED/tree/sys-env)
 #### **2.Now, enter the values as discussed above and click 'Deploy' button.**
 ![image](https://user-images.githubusercontent.com/87380104/230636731-f0ababe9-be29-46c5-813c-35ff34dc24db.png)
 #### **3.After deployment, click "Manage App" button and then click "Resources Tab" and enable the dyno.**
@@ -133,7 +133,7 @@ brew install python@3.10 git
 ```
 #### **2.Download Repository:**
 ```
-git clone https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED.git
+git clone https://github.com/kazimmt/WARP-UNLIMITED-ADVANCED.git
 ```
 #### **3.Install requirements:**
 ```
@@ -186,7 +186,7 @@ termux-setup-storage && pkg update -y && pkg i git python wget
 ```
 4.Download Repository:
 ```
-git clone https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED.git
+git clone https://github.com/kazimmt/WARP-UNLIMITED-ADVANCED.git
 ```
 5.Install requirements:
 ```
@@ -231,7 +231,7 @@ python -m notebook
 #### **3.Once you started your Server, Jupyter will give you its link (as shown in Image), just open it in your Browser.**
 ![](./Img/jp-1.png)
 ![](./Img/jp-2.png)
-#### **4.Now Download the "Server.ipynb" file: [from here only](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/ipynb/Server.ipynb)**
+#### **4.Now Download the "Server.ipynb" file: [from here only](https://github.com/kazimmt/WARP-UNLIMITED-ADVANCED/blob/main/ipynb/Server.ipynb)**
 #### **5.After downloading it, locate that file through your Jupyter server and open it as shown in the image and click Run.**
 ![](./Img/jupyter-server-pre.png)
 #### **6.Now enter your WARP Client ID and press Enter to continue.**
